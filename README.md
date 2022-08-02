@@ -2,24 +2,31 @@
 
 ![intro](https://user-images.githubusercontent.com/77667889/182480702-633a3948-adb6-4342-bb44-f4c8a9b393cf.png)
 
+<br/>
 
 #### 목적
 
 - KNOW(한국직업정보) 설문 데이터셋을 활용한 직업 추천 알고리즘 개발
 - 직업과 연관이 높은 설문지 문항 분석 및 영향변수 발굴
 
+<br/>
+
 #### 주최 / 주관
 
 - 주최 : 한국고용정보원 / 주관 : 데이콘
+
+<br/>
 
 #### 리더보드
 
 - Eval Metric : Macro F1-score
 - Public Score : 전체 테스트 데이터 중 33% / Private Score : 전체 테스트 데이터 중 67%
 
+<br/>
+
 #### 최종 순위
 
-### 🎖 3rd Prize
+🎖 3rd Prize
 
 <br/>
 
@@ -27,8 +34,9 @@
 
 ![dataset](https://user-images.githubusercontent.com/77667889/182480759-a40c91ea-1d4b-47d6-9ba9-5e2ca740dab8.png)
 
-
 - 전체 데이터셋 row 약 4만개, column 갯수 약 160개
+
+<br/>
 
 ### Features
 
@@ -38,6 +46,7 @@
 - 주관식 질문<br/>
 ![text2](https://user-images.githubusercontent.com/77667889/182480816-a612e87a-ee74-4267-aa50-30ef76f7b652.png)
 
+<br/>
 
 ### Target
 
