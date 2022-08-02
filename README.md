@@ -83,7 +83,7 @@ Categorical Feauture Combinations과 One-hot Encoding을 지원하는 CatBoost�
 
 # 데이터 활용
 
-### 취하자 - 직업 추천 웹사이트
+### 직업 추천 웹 어플리케이션 - 잡매니저
 
 https://github.com/juhwano/job_manager
 
